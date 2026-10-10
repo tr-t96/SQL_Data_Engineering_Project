@@ -13,7 +13,7 @@ where 1=1
 group by 1 
 having count(*) > 100
 order by 3 desc
-limit 25; 
+limit 30; 
 
 /*
 ────────────┬──────────────┬───────────────┐
